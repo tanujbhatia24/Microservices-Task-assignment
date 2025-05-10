@@ -26,3 +26,7 @@ services:
     container_name: gateway-service_container
     ports:
       - '3003:3003'
+
+networks:
+  default:
+    name: microservice-network
