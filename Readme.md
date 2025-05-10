@@ -134,6 +134,9 @@ docker compose up -d
 ![image](https://github.com/user-attachments/assets/959217ac-59e5-4aa2-a1fb-076df4ceff3c)<br>
 
 5. order-service<br>
-
+![image](https://github.com/user-attachments/assets/1ff0501c-9ae2-4d90-9691-a8bd78939050)<br>
    
 6. gateway-service<br>
+![image](https://github.com/user-attachments/assets/a2e9e9e1-6be7-4bfe-8cba-9e8ea6999a19)<br>
+
+
