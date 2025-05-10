@@ -133,7 +133,7 @@ docker compose up -d
 4. products-service<br>
 ![image](https://github.com/user-attachments/assets/959217ac-59e5-4aa2-a1fb-076df4ceff3c)<br>
 
-5. order-service<br>
+5. orders-service<br>
 ![image](https://github.com/user-attachments/assets/1ff0501c-9ae2-4d90-9691-a8bd78939050)<br>
    
 6. gateway-service<br>
