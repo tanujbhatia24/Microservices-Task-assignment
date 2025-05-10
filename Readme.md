@@ -110,6 +110,10 @@ services:
     container_name: gateway-service_container
     ports:
       - '3003:3003'
+
+networks:
+  default:
+    name: microservice-network
 ```
 
 ### 6. Build and Run the image docker-compose.
